@@ -2,6 +2,8 @@
 
 231 CO3001 - Software Engineering Assignment: A smart printing service for students at HCMUT.
 
+Grade: 9/10
+
 ## Table of Contents
 
 1. [Demo](#demo)
@@ -10,9 +12,7 @@
 
 ## Demo
 
-
-https://github.com/kyimmQ/hcmut-spss/assets/118438265/adfbc2f8-614d-4efa-8c77-31c92c0fda11
-
+https://github.com/thaovonguyen/hcmut-spss/assets/125102310/a636f149-368d-46b6-a5f3-7e9430202f75
 
 ## Installation
 
